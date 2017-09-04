@@ -1,0 +1,8 @@
+{
+  "name": "vue-angular-loader",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {},
+  "author": "Casey Corcoran <github@snaptopixel.com>",
+  "license": "MIT"
+}
